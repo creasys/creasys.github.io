@@ -216,7 +216,7 @@ body { /* this is for index */
     font-weight: bold;
 }
 #spinner {
-    height: 400px;
+    height: 300px;
     /* max- or min- height? */
 }
 .ts-name {
