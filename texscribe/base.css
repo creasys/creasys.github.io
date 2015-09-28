@@ -214,9 +214,9 @@ body { /* this is for index */
 }
 .section-title {
     font-weight: bold;
-}
+}
 #spinner {
-    height: 100vh;
+    height: 300px;
     /* max- or min- height? */
 }
 .ts-name {
