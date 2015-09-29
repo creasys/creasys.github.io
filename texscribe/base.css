@@ -6,8 +6,7 @@ html, body {
 body { /* this is for index */
     background-color: #ffffff; /*#e5e5e5;*/
     padding-top: 80px;
-    padding-bottom: 100px;
-    margin-bottom: 100px;
+    padding-bottom: 160px;
     /*background-image:url('/static/notebook.png');
      background-repeat:repeat;*/
 }
